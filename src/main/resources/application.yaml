@@ -1,0 +1,3 @@
+#environment=mup-tst
+environment=prod
+#active.profile=prod
